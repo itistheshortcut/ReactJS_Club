@@ -14,4 +14,4 @@ ___
 - Basic knowledge of map() function
 - Basic knowledge of variable data types
 
-___
+
