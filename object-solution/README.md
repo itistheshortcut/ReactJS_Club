@@ -1,6 +1,6 @@
 # Object Demo
 
-****This lesson is to provide an understanding to ES 5,6,7 ojbect demo****
+****This lesson is to provide an understanding to ES 5,6 object demo****
 ___
 # Materials  ES,6,7
 
