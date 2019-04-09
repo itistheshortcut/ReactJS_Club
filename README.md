@@ -1,6 +1,6 @@
 # ReactJS_Club
 
-### This club is to provide lessons, workshops and peer2peer learning in ReactJS
+### The club provides lessons, workshops and peer2peer learning.
 ___
 
 # Requirement
