@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.nav {
+  margin: 5px;
+}
+
+.nav-item {
+  margin: 5px;
+}
+
+#main-nav {
+  display: flex;
+  flex-direction: column;
+}
+
+#ObjectDemo-MainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+#skills {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
