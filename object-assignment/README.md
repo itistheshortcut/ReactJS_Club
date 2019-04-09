@@ -2,7 +2,7 @@
 
 ****This lesson is to provide an understanding to ES 5,6 object demo****
 ___
-# Materials  ES,6,7
+# Materials  ES,6
 
 - Object declaration and defined value
 - object` . `notation
