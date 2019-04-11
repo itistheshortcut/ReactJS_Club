@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+.nav {
+  margin-right: 1px;
+}
+
+.nav-item {
+  margin: 1px;
+}
+
+#main-nav {
+  display: flex;
+  flex-direction: column;
+}
+
+#ObjectDemo-MainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #333;
+  height: 100vh;
+}
+input {
+  background-color: #333;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+#skills {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.form-todo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: blue;
+  margin: 50px;
+}
+
+.items-list {
+  margin: 1px;
+}
+
+table {
+  margin-top: 5px;
+}
+tr,
+td {
+  height: 5px;
+  color: #fff;
+  padding: 5px;
+  text-align: left;
+  margin: 1px;
+  border: 1px black;
+}
+
+#todo-h1 {
+  margin: 0px;
+  color: rgb(0, 150, 255);
+}
+
+svg {
+  width: 24px;
+  height: 24px;
+  fill: #fff;
+  margin: 10px;
+}
+
+@media (min-width: 1024px) {
+  .form-todo {
+    margin-right: 300px;
+    margin-left: 300px;
+  }
+}
