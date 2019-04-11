@@ -1,15 +1,26 @@
-# Object Demo
+# Class Demo
 
-****This lesson is to provide an understanding to ES 5,6,7 ojbect demo****
-___
-# Materials  ES,6,7
+\***\*This lesson is to provide an understanding to React Classes with a demo\*\***
 
-- shorthand syntax
-- Object declaration and defined value
-- object` . `notation and ` [] ` notation
-___
+---
+
+# Programs
+
+- Demo with BMI Program
+- Carlist assignment and solution
+
+---
+
 # Requirements
 
 - Basic knowledge of array
 - Basic knowledge of map() function
 - Basic knowledge of variable data types
+
+---
+
+# Installation
+
+- `git clone URL_LINK`
+- `git install`
+- `npm start`
